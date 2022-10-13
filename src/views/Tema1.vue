@@ -10,7 +10,7 @@
     .fondo-1.p-4
       p.mb-5 La agricultura tradicional e industrial desencadena consecuencias e impactos negativos en el medio ambiente, la salud y la equidad social, generados principalmente por la implementación de monocultivos, el uso indiscriminado de agroquímicos que producen simplificación biológica, uniformidad genética y con ello pérdida de biodiversidad y servicios naturales.
 
-      .row.mb-5
+      .row.mb-5.mt-5
         .col-lg-6
           figure
             img.img-a(src='@/assets/curso/temas/tema_1/img_8.png', alt='')
@@ -31,25 +31,28 @@
               div.boton5
               .indicador--click(style="left:80%" v-if="mostrarIndicador5" ) 
 
-      .row
-        .col-lg-6
-
+      .row.z_in
+        .col-lg-8
           .div.bot_1(id="myDiv1" ref="myDiv1" style="display:inline")
             h5 Ancestralidad
             p.text-small Pero, la agroecología se encarga de dar una orientación a la agricultura basada en técnicas y métodos ancestrales, criterios ambientales, sostenibilidad y soberanía alimentaria, debido a que no se focaliza solo en la producción la cual debe ser más amigable con el medio ambiente, sino que va más allá e incluye toda la cadena y sistema agroalimentario, es decir, desde la producción hasta la comercialización y consumo, comprendiendo la compleja interacción que existe entre procesos y puntos de vista social, económico y ambiental que pueden darse.
-
+      .row.z_in
+        .col-lg-7
           .div.bot_2(id="myDiv2" ref="myDiv2" style="display:none")
             h5 Biodiversidad y conservación
             p.text-small Su finalidad no busca maximizar el rendimiento del cultivo, sino que centra en la estabilización a largo plazo, siendo vital mantener, incrementar y restaurar la biodiversidad de los agroecosistemas, y así impulsar cultivos en escala pequeña, económicamente viables, autosuficientes y diversificados, que se manejan con adaptaciones tecnológicas propios a los ambientes de cada ubicación. 
-
+      .row.z_in
+        .col-lg-6
           .div.bot_3(id="myDiv3" ref="myDiv3" style="display:none")
             h5 Agricultura orgánica y sostenible
             p.text-small Además, como lo indica Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018, September), difiere no sólo de la agricultura tradicional, sino que también de otros modelos agrícolas alternativos como la agricultura orgánica y sostenible, en criterios como el uso de insumos (abonos, productos fitosanitarios, etc.), en la diversificación de la producción agrícola, en la siembra de variedades genéticamente modificadas.
-
+      .row.z_in
+        .col-lg-7
           .div.bot_4(id="myDiv4" ref="myDiv4" style="display:none")
             h5 Recursos naturales 
             p.text-small Lo que conlleva a obtener beneficios importantes en los ecosistemas, pues la intervención antrópica altera la disponibilidad de recursos, las características del suelo, el clima, la estructura social, las dinámicas económicas y la historia del territorio, al aumentar la degradación ambiental, originando consecuencias negativas y, con la agroecología se busca promover el manejo de los agroecosistemas bajo estrategias como el uso responsable de los recursos naturales y la conservación de la biodiversidad.
-
+      .row.z_in
+        .col-lg-8
           .div.bot_5(id="myDiv5" ref="myDiv5" style="display:none")
             h5 Agroecosistemas
             p.text-small Por medio de la producción a largo plazo donde la velocidad de degradación debe ser inferior o en su defecto igual a la tasa de reposición, es decir se debe hacer de forma eficiente y rentable; también a través de la reducción del impacto del suelo y conservación de su fertilidad mediante prácticas como la rotación de cultivos, la minimización de la contaminación ambiental al no emplear agroquímicos, la producción de alimentos más naturales y de mejor calidad nutritiva y el aporte al compromiso para con las generaciones futuras de alcanzar un desarrollo económico sostenible, donde exista seguridad alimentaria y se asegure la conservación y protección del medio ambiente. 
@@ -239,6 +242,8 @@
 
     h5.mb-5 Dimensiones y niveles del cambio y transición agroecológica
 
+    p.mb-5 Es de resaltar, que existen como lo establece Gliessman, S. (2018), cuatro dimensiones y cinco niveles que son claves para la transición, los cuales están fundamentados en la visión multidimensional y holística de la agroecológica y, buscan lograr cambios en diferentes ámbitos que permitan aumentar la eficiencia y construir el sistema alimentario de forma más participativa, justa y amigable con el medio ambiente. Teniendo en cuenta que a la hora de evaluar la evolución no siempre es necesario avanzar de forma secuencial, debido a que estos niveles dependen del contexto del agroecosistema y del sistema agroalimentario. 
+
     .row.justify-content-center
       .col-lg-10
         .titulo-sexto.color-secundario(data-aos="fade-up")
@@ -277,7 +282,7 @@
         .tarjeta.tarjeta-slide.derecha.color-secundario.tarjeta_1(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_29.svg')})`}")
-            .tarjeta-slide__contenido.p-2.p-xl-4
+            .tarjeta-slide__contenido.p-4.p-xl-4
               h2 Cartografía de usos del suelo.
               p Al momento de cartografiar el suelo, existen diversas metodologías y procedimientos, por lo que la zonificación agroecológica es un instrumento de gran importancia, siguiendo a Alarcón Trujillo, V. F. (2021),  la zonificación permite establecer el potencial del terreno o zona geográfica y, a su vez, obtener un óptimo aprovechamiento del suelo. La forma de realizar la zonificación incluye actividades que pueden ser clasificadas en 3 grupos: i)registro del uso de las tierras ii) la compilación de los registros e inventarios de tierras iii) la evaluación de aptitudes. <br><br>Nota. Gis&Beers. (2019). 
 

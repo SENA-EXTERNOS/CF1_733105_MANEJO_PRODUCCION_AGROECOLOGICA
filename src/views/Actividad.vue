@@ -2,6 +2,10 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero
+        span i
+      h1 Actividad didáctica
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
@@ -9,7 +13,7 @@
           figure
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
+        .titulo-segundo.color-secundario
           h2 Emparejamiento entre término y definición.
         p.mb-4 En esta actividad debe relacionar las palabra de la columna ‘DEFINICIÓN’ con las correspondientes en ‘TÉRMINO’. El aprendiz debe emparejar correctamente las palabras y, así, realizar un repaso de lo estudiado en el componente formativo.
         .tarjeta.actividad.p-3
