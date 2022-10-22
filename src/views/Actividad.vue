@@ -24,6 +24,7 @@
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
+            
                 
 </template>
 

@@ -102,7 +102,7 @@
           figure
             img.img-a(src='@/assets/curso/temas/tema_1/img_14.png', alt='Texto que describa la imagen')
         .col-md-8.text-left
-          h3 Enfoque Interdisciplinario Transdiciplinario
+          h3 Enfoque Multidisciplinaria y Transdiciplinario
           p También es multidisciplinaria y transdisciplinaria porque abarca y aplica el conocimiento de diversas áreas y disciplinas como la ecología, agronomía, botánica, geografía, antropología, sociología, entre otras. 
 
       .row.align-items-center(data-aos="fade-left")
@@ -176,8 +176,9 @@
         .col-lg-8(data-aos="fade-right")
           .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
-              p.mb-0 La agroecología, a través de sus diversos enfoques y, adicional a ellos,  de sus cinco ejes temáticos, es fundamental para alcanzar los objetivos ONU 2030.  Los cinco ejes temáticos contribuyen a los objetivos sostenibles al impulsar acciones encaminadas a la conservación y preservación de la biodiversidad, los recursos naturales, como el agua o el suelo, a la aplicación de metodologías ecológicas y la mitigación de impactos ambientales- El fomento de proceso cortos de comercialización, el aumento de mercados campesinos y la producción de productos orgánicos, favorecen la seguridad alimentaria, la generación de valor agregado de los sistemas productivos, la recuperación de prácticas y saberes ancestrales, la inclusión del enfoque diferencial o la inclusión de género, demostrando la importancia de la mujer en los proceso agrícolas.
+              p.mb-0 La agroecología por medio de los diversos enfoques y adicionalmente a través de cinco ejes temáticos, logra aporta de forma directa a los objetivos del desarrollo sostenible establecidos por la ONU en la agenda 2030, por tanto, es una herramienta que juega un papel fundamental para alcanzarlos, debido a que los enfoques agroecológicos están direccionados afrontar los orígenes y causales de problemáticas como la pobreza, el hambre, la desigualdad las cuales paradójicamente se presentar en mayor proporción en la comunidades y población que se encarga de la agricultura familiar y campesina,  por medio la transformación de la agricultura y los sistemas alimentarios, la unión del conocimiento científico y los saberes locales, minimizando los intermediarios en la cadena de producción y comercialización y así lograr aportar a satisfacer las necesidades actuales y futuras.
 
+      p.mb-5 De forma específica, los cinco ejes temáticos de la agroecología contribuyen a diversos objetivos de desarrollo sostenible, al impulsar acciones encaminadas a la conservación y preservación de la biodiversidad, los recursos naturales (el agua, el suelo,), la aplicación de metodologías ecológicas y la mitigación de impactos ambientales, el  fomento de proceso cortos de comercialización, el aumento de mercados campesinos y de productos orgánicos lo que favorece la  seguridad alimentaria, la inclusión del enfoque diferencial, de género, la importancia de la mujer, la generación de valor agregado de los sistemas productivos, recuperación de prácticas y saberes ancestrales, entre otros.
       .titulo-sexto.color-secundario(data-aos="fade-up")
         h5 Figura 3. 
         | Ejes de la agroecología y relación con los ODS. Eje 1, eje 2, eje3.
@@ -258,7 +259,7 @@
     #t_1_4.titulo-segundo.color-secundario.mt-5(data-aos="fade-up")
       h2 1.4 Cartografía
 
-    p.mb-5(data-aos="fade-up") En los procesos de transición, la cartografía es una herramienta importante que permite obtener una caracterización del territorio.
+    p.mb-5(data-aos="fade-up") En los procesos de transición, la cartografía es una herramienta importante porque permite obtener una caracterización del territorio, con la finalidad identificar el potencial agrícola y productivo del suelo, mediante una evaluación cuantitativa y cualitativa por medio de una superposición de variables y el análisis de los servicios ecosistémicos, de las propiedades y componentes físicos (inclinación, temperatura, precipitación), socioeconómicos (avalúos del territorio, clasificación de predios por área) y legales, para luego tomar decisiones que permitan brindar un manejo sostenible a este recurso.
 
     .row.mb-5.justify-content-center
       .col-sm-6.col-xl-4.mb-4.mb-xl-0(data-aos="fade-right")
@@ -273,18 +274,18 @@
       .col-sm-6.col-xl-4.mb-4.mb-xl-0(data-aos="fade-left")
         .tarjeta.tarjeta-slide.abajo.color-secundario.tarjeta_1(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_28.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_29.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-4
               h2 Sistemas de Información Geográfica (SIG)
-              p  La finalidad de la cartografía es identificar el potencial agrícola y productivo del suelo, con una evaluación cuantitativa y cualitativa por medio de una superposición de variables y análisis de servicios ecosistémicos, de propiedades y componentes físicos (inclinación, temperatura, precipitación), de factores socioeconómicos (avalúos del territorio, clasificación de predios por área) y de aspectos legales que, una vez evaluados, se emplean para tomar decisiones que permitan brindar un manejo sostenible a estos recursos. <br><br>Nota. Mapa de conflictos de uso del suelo. Hernández, A. Rojas, R. Sánchez, F. (2013). 
+              p  En los procesos de transición, la cartografía es una herramienta importante porque permite obtener una caracterización del territorio, con la finalidad identificar el potencial agrícola y productivo del suelo, mediante una evaluación cuantitativa y cualitativa por medio de una superposición de variables y el análisis de los servicios ecosistémicos, de las propiedades y componentes físicos (inclinación, temperatura, precipitación), socioeconómicos (avalúos del territorio, clasificación de predios por área) y legales, para luego tomar decisiones que permitan brindar un manejo sostenible a este recurso. <br><br>Nota. Mapa de conflictos de uso del suelo. Hernández, A. Rojas, R. Sánchez, F. (2013). 
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta.tarjeta-slide.derecha.color-secundario.tarjeta_1(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_29.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_28.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-4
               h2 Cartografía de usos del suelo.
-              p Al momento de cartografiar el suelo, existen diversas metodologías y procedimientos, por lo que la zonificación agroecológica es un instrumento de gran importancia, siguiendo a Alarcón Trujillo, V. F. (2021),  la zonificación permite establecer el potencial del terreno o zona geográfica y, a su vez, obtener un óptimo aprovechamiento del suelo. La forma de realizar la zonificación incluye actividades que pueden ser clasificadas en 3 grupos: i)registro del uso de las tierras ii) la compilación de los registros e inventarios de tierras iii) la evaluación de aptitudes. <br><br>Nota. Gis&Beers. (2019). 
+              p A la hora de realizar el proceso de cartografía del suelo, existen diversas metodologías y procedimientos, siendo la zonificación agroecológica un instrumento de gran importancia, porque como lo establece Alarcón Trujillo, V. F. (2021), está permite establecer el potencial del terreno o zona geográfica, lo que a su vez permite un óptimo aprovechamiento del suelo. La forma de realizar la zonificación incluye actividades que pueden ser clasificadas en 3 grupos, que son registro del uso de las tierras, la compilación de los registros e inventarios de tierras y la evaluación de aptitudes. <br><br>Nota. Gis&Beers. (2019). 
 
     separador
 
@@ -298,7 +299,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_30.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La agroecología por medio de la caracterización del territorio, logra identificar todas las problemáticas que se presentan, con el fin de minimizarlas, porque de acuerdo a la vulnerabilidad de los ecosistemas y el conflicto de los procesos geofísicos con la población, se  convierten en riesgos, los cuales pueden ser de diversos orígenes, #[b entre los que se destacan afectaciones del clima y de las condiciones meteorológicas, desastres naturales, daños físicos, locativos, afectaciones económicas y financieras derivadas de fluctuaciones en los precios y procesos de mercadeo. ]
+            p.mb-0 La agroecología por medio de la caracterización del territorio, logra identificar todas las problemáticas que se presentan, con el fin de minimizarlas, porque de acuerdo a la vulnerabilidad de los ecosistemas y el conflicto de los procesos geofísicos con la población, se  convierten en riesgos, los cuales pueden ser de diversos orígenes, entre los que se destacan afectaciones del clima y de las condiciones meteorológicas, desastres naturales, daños físicos, locativos, afectaciones económicas y financieras derivadas de fluctuaciones en los precios y procesos de mercadeo.
 
     .row.mb-5.mt-5
       .col-lg-4.mb-4.mb-md-0(data-aos="fade-right")

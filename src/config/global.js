@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Conocimientos de los agroecosistemas y conservación de suelos.',
     descripcionCurso:
-      'Este componente formativo brinda la información necesaria para comprender la agroecología, su evolución, sus enfoques y sus aportes a los objetivos de desarrollo sostenible mediante la transformación de los sistemas y los métodos de producción convencionales, a sistemas agroalimentarios sostenibles. Además, se abordará la importancia del suelo y de las diferentes prácticas de manejo cultural llevado a cabo en los cultivos.',
+      'En este componente formativo brinda la información necesaria para comprender la agroecología, su evolución, sus enfoques y sus aportes a los objetivos de desarrollo sostenible mediante la transformación de los sistemas y los métodos de producción convencionales, a sistemas agroalimentarios sostenibles. Además, se abordará la importancia del suelo y de las diferentes prácticas de manejo cultural llevado a cabo en los cultivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

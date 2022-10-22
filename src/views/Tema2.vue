@@ -15,7 +15,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 El suelo, es uno de los recursos vitales que pueden sufrir mayor afectación o riesgos, debido a que esta capa que es la más superficial y visible del planeta cuenta con gran capacidad agroecológica y desempeña funciones vitales para la existencia las especies y el desarrollo ser humano; #[b posee gran variedad, diversas formas y puede ser de catalogado como rural o urbano dependiendo de la ubicación en la que se encuentre,] siendo un factor importante porque permite establecer su funcionalidad y las características que puede ofrecer para su utilización. Además, su estudio integra diversas disciplinas entre las que se encuentran la edafología, geología, ecología, agronomía, arquitectura, urbanismo, geografía, ordenamiento territorial, etc.
+              p.mb-0 El suelo, es uno de los recursos vitales que pueden sufrir mayor afectación o riesgos, debido a que esta capa que es la más superficial y visible del planeta cuenta con gran capacidad agroecológica y desempeña funciones vitales para la existencia las especies y el desarrollo ser humano; posee gran variedad, diversas formas y puede ser de catalogado como rural o urbano dependiendo de la ubicación en la que se encuentre, siendo un factor importante porque permite establecer su funcionalidad y las características que puede ofrecer para su utilización. Además, su estudio integra diversas disciplinas entre las que se encuentran la edafología, geología, ecología, agronomía, arquitectura, urbanismo, geografía, ordenamiento territorial, etc.
 
       .row.mb-5
         .col-lg-6.mb-4.mb-md-0(data-aos="fade-right")
@@ -74,7 +74,7 @@
     .fondo-6.p-4
       .row.align-items-center.justify-content-center.mb-5
         .col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
-          img.img-a(src='@/assets/curso/temas/tema_2/img_5.png', alt='Texto que describa la imagen')
+          img.img-a(src='@/assets/curso/temas/tema_2/img_8.png', alt='Texto que describa la imagen')
         .col-lg-8(data-aos="fade-left")
           p Las sustancias contaminantes del suelo se acumulan y alcanzan niveles o concentraciones tóxicas para los organismos que habitan el suelo y dificultan, o imposibilitan, la realización de balances naturales, funciones regeneradoras y soporte de vida para los ecosistemas que normalmente lleva a cabo en él, inclusive, se produce una degradación física, química y biológica que se puede presentar en diversos grados que llegan a causar una pérdida total o parcial de su productividad.
 
