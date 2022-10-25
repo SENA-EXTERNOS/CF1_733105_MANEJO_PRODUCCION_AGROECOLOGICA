@@ -218,7 +218,7 @@ export default {
     {
       termino: 'Agroquímicos',
       significado:
-        'productos químicos empleados para prevenir, destruir y controlar plagas y enfermedades (herbicidas, fungicidas, insecticidas, etc.',
+        'productos químicos empleados para prevenir, destruir y controlar plagas y enfermedades (herbicidas, fungicidas, insecticidas, etc).',
     },
     {
       termino: 'Cartografía',
