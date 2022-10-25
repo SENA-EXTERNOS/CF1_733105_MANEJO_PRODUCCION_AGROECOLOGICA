@@ -15,7 +15,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-secundario
           h2 Emparejamiento entre término y definición.
-        p.mb-4 En esta actividad debe relacionar las palabra de la columna ‘DEFINICIÓN’ con las correspondientes en ‘TÉRMINO’. El aprendiz debe emparejar correctamente las palabras y, así, realizar un repaso de lo estudiado en el componente formativo.
+        p.mb-4 Esta actividad trata de relacionar las columnas de términos con su respectiva definición, el objetivo es que el aprendiz haga la correcta unión y de este modo hacer un repaso de lo estudiado en el componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
