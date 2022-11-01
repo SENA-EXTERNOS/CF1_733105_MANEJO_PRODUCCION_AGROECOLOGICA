@@ -14,28 +14,29 @@
         .col-lg-6
           figure
             img(src='@/assets/curso/temas/tema_1/img_8.png', alt='')
-          div.contenedor
-            a.indicador__containe(@click="mostrarDiv(1); mostrarIndicador2 = true;" @mouseover="mostrarIndicador1 = false; ")
-              div.boton1
-              .indicador--click(style="left:15%, top:5%" v-if="mostrarIndicador1" )         
-            a.indicador__containe(@click="mostrarDiv(2); mostrarIndicador2 = true;" @mouseover="mostrarIndicador2 = false; ")        
-              div.boton2
-              .indicador--click(style="left:80%" v-if="mostrarIndicador2" )  
-            a.indicador__containe(@click="mostrarDiv(3); mostrarIndicador3 = true;" @mouseover="mostrarIndicador3 = false; ")        
-              div.boton3
-              .indicador--click(style="left:80%" v-if="mostrarIndicador3" )  
-            a.indicador__containe(@click="mostrarDiv(4); mostrarIndicador4 = true;" @mouseover="mostrarIndicador4 = false; ")        
-              div.boton4
-              .indicador--click(style="left:80%" v-if="mostrarIndicador4" ) 
-            a.indicador__containe(@click="mostrarDiv(5); mostrarIndicador5 = true;" @mouseover="mostrarIndicador5 = false; ")        
-              div.boton5
-              .indicador--click(style="left:80%" v-if="mostrarIndicador5" ) 
+          .row.contenedor.z_in
+            .col-lg-12
+              a(@click="mostrarDiv(1); mostrarIndicador2 = true;" @mouseover="mostrarIndicador1 = false; ")
+                div.boton1
+                .indicador--click(style="left:55%, top:5%" v-if="mostrarIndicador1" )         
+              a.indicador__containe.ind_2(@click="mostrarDiv(2); mostrarIndicador2 = true;" @mouseover="mostrarIndicador2 = false; ")        
+                div.boton2
+                .indicador--click(style="left:80%" v-if="mostrarIndicador2" )  
+              a.indicador__containe(@click="mostrarDiv(3); mostrarIndicador3 = true;" @mouseover="mostrarIndicador3 = false; ")        
+                div.boton3
+                .indicador--click(style="left:80%" v-if="mostrarIndicador3" )  
+              a.indicador__containe(@click="mostrarDiv(4); mostrarIndicador4 = true;" @mouseover="mostrarIndicador4 = false; ")        
+                div.boton4
+                .indicador--click(style="left:80%" v-if="mostrarIndicador4" ) 
+              a.indicador__containe(@click="mostrarDiv(5); mostrarIndicador5 = true;" @mouseover="mostrarIndicador5 = false; ")        
+                div.boton5
+                .indicador--click(style="left:80%" v-if="mostrarIndicador5" ) 
   
       .row.z_in
         .col-auto.bot_1
           .div(id="myDiv1" ref="myDiv1" style="display:inline")
             h5 Ancestralidad
-            p.text-small Pero, la agroecología se encarga de dar una orientación a la agricultura basada en técnicas y métodos ancestrales, criterios ambientales, sostenibilidad y soberanía alimentaria, debido a que no se focaliza solo en la producción la cual debe ser más amigable con el medio ambiente, sino que va más allá e incluye toda la cadena y sistema agroalimentario, es decir, desde la producción hasta la comercialización y consumo, comprendiendo la compleja interacción que existe entre procesos y puntos de vista social, económico y ambiental que pueden darse.
+            p.text-small La agroecología se encarga de dar una orientación a la agricultura basada en técnicas y métodos ancestrales, criterios ambientales, sostenibilidad y soberanía alimentaria, debido a que no se focaliza solo en la producción la cual debe ser más amigable con el medio ambiente, sino que va más allá e incluye toda la cadena y sistema agroalimentario, es decir, desde la producción hasta la comercialización y consumo, comprendiendo la compleja interacción que existe entre procesos y puntos de vista social, económico y ambiental que pueden darse.
       .row.z_in
         .col-auto.bot_2
           .div(id="myDiv2" ref="myDiv2" style="display:none")
