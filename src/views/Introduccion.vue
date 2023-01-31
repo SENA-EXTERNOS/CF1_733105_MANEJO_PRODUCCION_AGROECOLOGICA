@@ -9,12 +9,17 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 Apreciado aprendiz, sea bienvenido a este momento de aprendizaje orientado al conocimiento de los agroecosistemas y conservación de suelos. Antes de empezar, se sugiere revisar el siguiente video para identificar el contexto de aprendizaje.
+    p Apreciado aprendiz, bienvenido a este componente formativo, donde podrá apropiarse de los conceptos y acciones claves del conocimiento de los agroecosistemas y la conservación de los suelos. 
+
+    p Realice un estudio responsable de todas las temáticas y potencie sus habilidades y saberes que le favorecerán en su experticia para la aplicación de prácticas de manejo ambiental, cultural, técnico y empresarial, del recurso “suelo”.
+
+    p.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
+
 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      
     
 </template>
 

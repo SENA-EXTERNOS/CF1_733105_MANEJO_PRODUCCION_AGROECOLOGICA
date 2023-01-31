@@ -32,38 +32,6 @@ export default {
         numero: '1',
         titulo: 'Agroecología',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Enfoques sistémicos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Aportes a los objetivos de desarrollo sostenible',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Procesos de transición o reconversión',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Cartografía',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Análisis de riesgos',
-            hash: 't_1_5',
-          },
-        ],
       },
 
       {
@@ -72,26 +40,6 @@ export default {
         numero: '2',
         titulo: 'El Suelo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Propiedades y composición',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Perfil del Suelo',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Problemáticas',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -99,26 +47,6 @@ export default {
         numero: '3',
         titulo: 'Manejo ecológico del suelo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Técnicas culturales',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Prácticas de conservación',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Formatos y registros',
-            hash: 't_3_3',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -163,22 +91,22 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Agroecología',
+      tema: 'Agroecología',
       referencia:
-        'Rivera, Gómez, L. C. (2021). Documento propuesto de lineamientos de política pública en agroecología para Colombia. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Colombia. ISBN: 978-628-7522-05-3.',
+        'Rivera Gómez, L. C. (2021). <i>Documento propuesto de lineamientos de política pública en agroecología para Colombia</i>. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Colombia. ISBN: 978-628-7522-05-3.',
       tipo: 'Artículo',
       descarga:
         '/downloads/7_Propuesta-de-lineamientos-de-politica-publica-en-agroecologia-para-Colombia-_compressed.pdf',
     },
     {
-      tema: '1.3. Procesos de transición o reconversión',
+      tema: 'Agroecología',
       referencia:
-        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (2018). 10 elementos de la agroecología. Guía para la transición hacia sistemas alimentarios y agrícolas sostenibles',
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura. (2018).<i> 10 elementos de la agroecología. Guía para la transición hacia sistemas alimentarios y agrícolas sostenibles</i>.',
       tipo: 'Artículo',
       descarga: '/downloads/i9037es.pdf',
     },
     {
-      tema: '2.1	Propiedades y composición ',
+      tema: 'El suelo',
       referencia:
         'Ecosistemas de Recursos Educativos ECORED. (2020). Propiedades físicas del suelo.',
       tipo: 'Video',
@@ -186,7 +114,7 @@ export default {
         'https://www.youtube.com/watch?v=eV-iChL0K6E&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
     {
-      tema: '2.1	Propiedades y composición',
+      tema: 'El suelo',
       referencia:
         'Ecosistemas de Recursos Educativos ECORED. (2020). Propiedades químicas del suelo.',
       tipo: 'Video',
@@ -194,7 +122,7 @@ export default {
         'https://www.youtube.com/watch?v=zMBZb9kmiMM&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
     {
-      tema: '2.1	Propiedades y composición',
+      tema: 'El suelo',
       referencia:
         'Ecosistemas de Recursos Educativos ECORED. (2020). Propiedades biológicas del suelo.',
       tipo: 'Video',
@@ -202,9 +130,9 @@ export default {
         'https://www.youtube.com/watch?v=xBgGSpUI8eo&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
     {
-      tema: '3. Manejo ecológico del suelo',
+      tema: 'Manejo ecológico del suelo',
       referencia:
-        'Brechelt, A. (2004). Manejo ecológico del suelo. Fundación Agricultura y Medio Ambiente. Red de acción de Plaguicidas y sus alternativas para América Latina.',
+        'Brechelt, A. (2004). <i>Manejo ecológico del suelo. Fundación Agricultura y Medio Ambiente. Red de acción de Plaguicidas y sus alternativas para América Latina</i>.',
       tipo: 'Artículo',
       descarga: '/downloads/90_Manejo_Ecologic-with-cover-page-v2.pdf',
     },
@@ -264,33 +192,52 @@ export default {
   referencias: [
     {
       referencia:
-        'Alarcón Trujillo, V. F. (2021). Modelo SIG para la zonificación agroecológica de cultivos: estudio de caso cuenca hidrográfica del río Las Ceibas, Huila, Colombia.',
+        'Alarcón Trujillo, V. F. (2021). <i>Modelo SIG para la zonificación agroecológica de cultivos: estudio de caso cuenca hidrográfica del río Las Ceibas, Huila, Colombia</i>.',
       link: 'http://ridum.umanizales.edu.co/handle/20.500.12746/5746',
     },
 
     {
       referencia:
-        'García, D. (2017). Metodologías participativas, agroecología y sostenibilidad rural. Centro nacional de educación ambiental.',
+        'García, D. (2017). <i>Metodologías participativas, agroecología y sostenibilidad rural</i>. Centro nacional de educación ambiental.',
       link:
         'https://www.miteco.gob.es/en/ceneam/articulos-de-opinion/2014-07-08-daniel-lopez_tcm38-163552.pdf',
     },
 
     {
+      referencia: 'Gis&Beers. (2019). <i>Cartografías de usos del suelo</i>.',
+      link:
+        'http://www.gisandbeers.com/descarga-siose-cartografia-usos-del-suelo/',
+    },
+
+    {
       referencia:
-        'Gliessman, S. (2018). Romper con los sistemas agrarios y alimentarios industriales: siete experiencias de transición agroecológica. Estudio de caso 2. iPES-FOOD. International panel of experts on sustainable food systems.',
+        'Gliessman, S. (2018). <i>Romper con los sistemas agrarios y alimentarios industriales: siete experiencias de transición agroecológica. Estudio de caso 2</i>. iPES-FOOD. International panel of experts on sustainable food systems.',
       link: 'http://www.ipes-food.org/_img/upload/files/CS2_web_ES.pdf',
     },
 
     {
       referencia:
-        'Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018, September). Políticas públicas que promueven la agroecología y producción orgánica en América Latina. In in III Conferência Internacional de Agricultura e Alimentação em uma Sociedade Urbanizada.',
+        'Gómez, J. & Montes, N. E., compiladores. 2020. Mapa Geológico de Colombia en Relieve 2020. Escala 1:1 000 000. Servicio Geológico Colombiano, 2 hojas. Bogotá.',
+      link: 'https://www2.sgc.gov.co/MGC/Paginas/mgc_1M2020.aspx',
+    },
+
+    {
+      referencia:
+        'Hernández, A., Rojas, R. & Sánchez, F. (2013). <i>Mapa de conflictos de uso del suelo</i>.',
+      link:
+        'https://www.researchgate.net/figure/Figura-5-Mapa-de-conflictos-de-uso-del-suelo-corregimiento-de-Pasquilla-Datos-mapa-de_fig3_327711135',
+    },
+
+    {
+      referencia:
+        'Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018, September). Políticas públicas que promueven la agroecología y producción orgánica en América Latina. In in III <i>Conferência Internacional de Agricultura e Alimentação em uma Sociedade Urbanizada</i>.',
       link:
         'https://libros.unlp.edu.ar/index.php/unlp/catalog/view/72/54/181-1',
     },
 
     {
       referencia:
-        'Tittonell, Pablo. (2019). Las transiciones agroecológicas: múltiples escalas, niveles y desafíos. Revista de la Facultad de Ciencias Agrarias. Universidad Nacional de Cuyo, 51(1), 231-246. Recuperado en 18 de agosto de 2022, de',
+        'Tittonell, Pablo. (2019). Las transiciones agroecológicas: múltiples escalas, niveles y desafíos. Revista de la Facultad de Ciencias Agrarias. <i>Universidad Nacional de Cuyo</i>, 51(1), 231-246. Recuperado en 18 de agosto de 2022, de',
       link:
         'http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1853-86652019000100017&lng=es&tlng=es.',
     },

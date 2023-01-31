@@ -7,6 +7,7 @@
         span 3
       h1 Manejo ecológico del suelo
 
+    p.mb-5(data-aos="fade-up") El manejo ecológico del suelo hace referencia a los cuidados y medidas que se deben tener presente, para lograr un uso apropiado e idóneo de este recurso natural.
     .row.mb-5
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -14,29 +15,26 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_3/img_1.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-4.text-center.tarjeta_2
-              h4 Manejo ecológico del suelo
-              p El manejo ecológico del suelo hace referencia a los cuidados y medidas necesarias para un uso apropiado e idóneo de este recurso natural. A través del empleo eficiente de los recursos naturales y humanos, del capital y de la producción disponibles, se espera preservar y minimizar los impactos negativos que causan las actividades agrícolas, pecuarias y demás intervenciones antrópicas, e ,igualmente, se pretende conservar y mantener condiciones óptimas que favorezcan la fertilidad o que ofrezcan condiciones propicias para la vida de diversas especies. 
+              h4 ¿Cómo manejar ecológicamente el suelo?
+              p Mediante el empleo eficiente de los recursos naturales, humanos, de capital y de producción, que se encuentren disponibles, con la finalidad de preservar, minimizar los impactos negativos que originan las actividades agrícolas, pecuarias y demás intervenciones antrópicas, como también conservar y mantener óptimas las condiciones que favorezcan la fertilidad y ofrezcan condiciones propicias para la vida de diversas especies.
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_3/img_2.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-4.text-center.tarjeta_3
-              h4 Desarrollo sostenible del suelo
-              p Los cuidados y los buenos manejos logran un manejo ecológico y un desarrollo sostenible del suelo, estos se basan en aspectos sociales, ecológicos, ambientales, políticos, pero incorporan, a su vez, prácticas y saberes ancestrales, alcanzando así una producción agropecuaria sustentable y equilibrada que aporta significativamente al bienestar del ser humano y de los ecosistemas. Al realizar un adecuado manejo ecológico, se obtiene beneficios que se ven reflejados en la calidad de los suelos, cultivos con mayores rendimientos y más saludables, reducción de los efectos negativos generados al medio ambiente derivados de prácticas como la deforestación, el uso de agroquímicos y demás métodos empleados en la agricultura convencional e industrial.
+              h4 ¿En qué se basa el manejo del suelo?
+              p En aspectos sociales, ecológicos, ambientales, políticos, pero también incorporan prácticas y saberes ancestrales, para alcanzar una producción agropecuaria sustentable y equilibrada que aporte significativamente al bienestar del ser humano y los ecosistemas. Debido a que, al realizar un adecuado manejo ecológico, se obtienen beneficios que se ven reflejados en la calidad de los suelos, cultivos con mayores rendimientos y más sanos, reducción de los efectos negativos generados al medio ambiente, derivados de prácticas como la deforestación, el uso de agroquímicos y demás, empleadas en la agricultura convencional e industrial.
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_3/img_3.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-4.text-center.tarjeta_4
-              h4 Diversificación de sistemas agroecológicos
-              p Con el manejo ecológico de los suelos se logra la diversificación de los sistemas agroecológicos, la sustitución de fertilizantes, de plaguicidas, de insecticidas y demás insumos químicos, se reemplazan por prácticas y materiales ecológicos, obteniendo producciones sostenibles que favorecen la seguridad alimentaria y garantizan la restauración de los suelos y el medioambiente.
+              h4 ¿Qué se logra con el buen manejo del suelo?
+              p La diversificación de los sistemas agroecológicos, la sustitución de fertilizantes, plaguicidas, insecticidas y demás insumos químicos por prácticas y materiales ecológicas, la obtención de producciones sostenibles que favorece la seguridad alimentaria, garantizando la restauración de los suelos y el medioambiente.
 
-    separador
-
-    #t_3_1.titulo-segundo.color-secundario.mt-5(data-aos="fade-up")
-      h2 3.1 Técnicas culturales 
+    h3.my-5(data-aos="fade-up")  Técnicas culturales 
 
     .row.justify-content-center.mb-5
       .col-lg-11(data-aos="zoom-out-left")
@@ -52,15 +50,11 @@
     .row.justify-content-center.mb-3
       .col-lg-8
         .titulo-sexto.color-secundario(data-aos="fade-up")
-          h5 Figura 8. 
-          | Beneficios de las técnicas culturales y manejo ecológico del suelo
-    img.img-a(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_5.svg', alt='Texto que describa la imagen')
+          p.mb-0 <b>Figura 4</b><br> <em>Beneficios de las técnicas culturales y manejo ecológico del suelo</em>
+    img.img-a(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_5.svg', alt='')
 
 
-    separador
-
-    #t_3_2.titulo-segundo.color-secundario.mt-5(data-aos="fade-up")
-      h2 3.2 Prácticas de conservación 
+    h3.my-5(data-aos="fade-up")  Prácticas de conservación 
 
     p Es importante resaltar que el éxito en la conservación de los suelos radica en la utilización de materias orgánicas, un factor primordial que determina la productividad mediante los procesos de descomposición y humedad requeridos para que los microorganismos proporcionen nutrientes necesarios a los suelos. 
 
@@ -107,9 +101,9 @@
               | Cultivos de cobertura.
 
       .col-lg-4
-        img.img-a(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_6.png', alt='Texto que describa la imagen')
+        img.img-a(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_6.png', alt='')
 
-    p Aprendiz, se le aconseja indagar más sobre las prácticas de conservación, para ello puede ver el siguiente video:
+    p Amplíe sus conocimientos y saberes sobre <b>prácticas de conservación</b>, observando el siguiente video.
 
     .row.mb-5
       .col-lg-7
@@ -119,10 +113,7 @@
           .anexo__texto.txt_link
             p.txt_link #[b.txt_link Enlace web]. Conservación del suelo: Conozca una propuesta basada en la agricultura regenerativa - La finca de Hoy.
 
-    separador
-
-    #t_3_3.titulo-segundo.color-secundario.mt-5(data-aos="fade-up")
-      h2 3.3 Formatos y registros
+    h3.my-5(data-aos="fade-up")  Formatos y registros
 
     .row.justify-content-center
       .col-lg-10
@@ -144,21 +135,17 @@
           .row.justify-content-center.mb-3
             .col-lg-11
               .titulo-sexto.color-secundario(data-aos="fade-up")
-                h5 Figura 9. 
-                | Ejemplos formato y registro de actividades
+                p.mb-0 <b>Figura 4</b><br> <em>Ejemplos formato y registro de actividades</em>
           .row.justify-content-center.mb-5
             .col-lg-10
-              img.img-a.mb-3(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_9.svg', alt='Texto que describa la imagen')
+              img.img-a.mb-3(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_9.svg', alt='')
               figcaption.fig
-                p.mb-0 Nota. La imagen ejemplifica un formato de registro de actividades. Cacao Móvil (s.f.).
+                p.mb-0 Nota: tomado de Cacao Móvil (s.f.).
 
     .row.justify-content-center 
         .col-lg-10
           .cajon.color-secundario.p-4.mb-4
-            p.mb-0 Para concluir el componente formativo denominado “Conocimientos de los agroecosistemas y conservación de suelos.”  donde se abordaron temas como son, enfoques, elementos, principios, prácticas ancestrales o de manejo, procesos de transición componentes del suelo, así como manejo de cartografía y sistemas de información, que nos permite conocer y  entender los conceptos básicos de los agroecosistemas y las prácticas de conservación de suelos para el manejo de la producción agroecológica. De esta manera damos fin al componente e invitamos a los aprendices a leer detenidamente el capítulo y realizar las actividades incluidas para evaluar sus conocimientos.
-
-
-
+            p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>
