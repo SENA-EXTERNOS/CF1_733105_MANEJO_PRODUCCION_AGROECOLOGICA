@@ -237,7 +237,7 @@ export default {
 
     {
       referencia:
-        'Tittonell, Pablo. (2019). Las transiciones agroecológicas: múltiples escalas, niveles y desafíos. Revista de la Facultad de Ciencias Agrarias. <i>Universidad Nacional de Cuyo</i>, 51(1), 231-246. Recuperado en 18 de agosto de 2022, de',
+        'Tittonell, P. (2019). Las transiciones agroecológicas: múltiples escalas, niveles y desafíos. Revista de la Facultad de Ciencias Agrarias. <i>Universidad Nacional de Cuyo</i>, 51(1), 231-246. Recuperado en 18 de agosto de 2022, de',
       link:
         'http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1853-86652019000100017&lng=es&tlng=es.',
     },
