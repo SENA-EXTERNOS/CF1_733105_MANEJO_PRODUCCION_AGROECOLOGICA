@@ -135,7 +135,7 @@
           .row.justify-content-center.mb-3
             .col-lg-11
               .titulo-sexto.color-secundario(data-aos="fade-up")
-                p.mb-0 <b>Figura 6</b><br> <em>Ejemplos formato y registro de actividades</em>
+                p.mb-0 <b>Figura 6</b><br> <em>Ejemplo formato y registro de actividades</em>
           .row.justify-content-center.mb-5
             .col-lg-10
               img.img-a.mb-3(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_9.svg', alt='')
