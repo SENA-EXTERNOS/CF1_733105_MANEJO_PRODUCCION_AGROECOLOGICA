@@ -39,7 +39,7 @@
     p.mb-5(data-aos="fade-up") Observe con suma atención el video que se presenta a continuación. En él se exponen, en detalle, las generalidades y aspectos claves de las propiedades y la composición de los suelos:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/n-3x-qBFSu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 
     h3.my-5(data-aos="fade-up")  Perfil del Suelo
