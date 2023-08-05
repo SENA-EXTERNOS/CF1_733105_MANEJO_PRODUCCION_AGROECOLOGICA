@@ -146,7 +146,7 @@ export default {
     {
       termino: 'Agroquímicos',
       significado:
-        'productos químicos empleados para prevenir, destruir y controlar plagas y enfermedades (herbicidas, fungicidas, insecticidas, etc).',
+        'productos químicos empleados para prevenir, destruir y controlar plagas y enfermedades (herbicidas, fungicidas, insecticidas, etc.).',
     },
     {
       termino: 'Cartografía',
@@ -174,7 +174,7 @@ export default {
         'conjunto particular de actividades (sistema de manejo) desarrolladas para producir una serie definida de productos o beneficios.',
     },
     {
-      termino: 'Manejo Cultural',
+      termino: 'Manejo cultural',
       significado:
         'serie de actividades que se llevan a cabo durante la producción (desde la siembra hasta la cosecha) de los cultivos con el fin de proporcionar las condiciones y requerimientos necesarios para un adecuado crecimiento de las plantas.',
     },
@@ -199,8 +199,7 @@ export default {
     {
       referencia:
         'García, D. (2017). <i>Metodologías participativas, agroecología y sostenibilidad rural</i>. Centro nacional de educación ambiental.',
-      link:
-        'https://www.miteco.gob.es/en/ceneam/articulos-de-opinion/2014-07-08-daniel-lopez_tcm38-163552.pdf',
+      link: 'https://dspace.unia.es/handle/10334/3700',
     },
 
     {
@@ -232,7 +231,7 @@ export default {
       referencia:
         'Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018, September). Políticas públicas que promueven la agroecología y producción orgánica en América Latina. In in III <i>Conferência Internacional de Agricultura e Alimentação em uma Sociedade Urbanizada</i>.',
       link:
-        'https://libros.unlp.edu.ar/index.php/unlp/catalog/view/72/54/181-1',
+        'https:_ylt=AwrEa5jSM8NkUx4HGMmrcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1690543187/RO=10/RU=https%3a%2f%2fagritrop.cirad.fr%2f599094%2f1%2fLeCoq-et-al-2021-Intro-Book-PolAgAL.pdf/RK=2/RS=m6P2OL2aFBo35_GMQRgyQtzqegM-',
     },
 
     {

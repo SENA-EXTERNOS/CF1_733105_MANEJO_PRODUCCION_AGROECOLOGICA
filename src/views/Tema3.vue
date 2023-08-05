@@ -50,7 +50,7 @@
     .row.justify-content-center.mb-3
       .col-lg-8
         .titulo-sexto.color-secundario(data-aos="fade-up")
-          p.mb-0 <b>Figura 5</b><br> <em>Beneficios de las técnicas culturales y manejo ecológico del suelo</em>
+          p.mb-0 <b>Figura 5</b><br> <em>Beneficios de las técnicas culturales y manejo ecológico del suelo.</em>
     img.img-a(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_5.svg', alt='')
 
 
@@ -135,7 +135,7 @@
           .row.justify-content-center.mb-3
             .col-lg-11
               .titulo-sexto.color-secundario(data-aos="fade-up")
-                p.mb-0 <b>Figura 6</b><br> <em>Ejemplo formato y registro de actividades</em>
+                p.mb-0 <b>Figura 6</b><br> <em>Ejemplo formato y registro de actividades.</em>
           .row.justify-content-center.mb-5
             .col-lg-10
               img.img-a.mb-3(data-aos="fade-left")(src='@/assets/curso/temas/tema_3/img_9.svg', alt='')
