@@ -221,7 +221,7 @@
         p se debe gobernar de manera responsable y eficaz en todos los niveles (local, nacional y mundial).
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="94%" y="49%" numero="+")
-        .h5.mb-2 Circular y solidaria economía: 
+        .h5.mb-2 Economía circular y solidaria: 
         p Permite obtener soluciones innovadoras para lograr vivir dentro de los límites de nuestro planeta y, al mismo tiempo, afianzar las bases sociales para el desarrollo inclusivo y sostenible. 
 
     h5.mb-5 Dimensiones y niveles del cambio y transición agroecológica

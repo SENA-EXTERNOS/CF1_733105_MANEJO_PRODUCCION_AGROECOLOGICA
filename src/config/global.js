@@ -227,12 +227,12 @@ export default {
         'https://www.researchgate.net/figure/Figura-5-Mapa-de-conflictos-de-uso-del-suelo-corregimiento-de-Pasquilla-Datos-mapa-de_fig3_327711135',
     },
 
-    {
-      referencia:
-        'Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018, September). Políticas públicas que promueven la agroecología y producción orgánica en América Latina. In in III <i>Conferência Internacional de Agricultura e Alimentação em uma Sociedade Urbanizada</i>.',
-      link:
-        'https:_ylt=AwrEa5jSM8NkUx4HGMmrcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1690543187/RO=10/RU=https%3a%2f%2fagritrop.cirad.fr%2f599094%2f1%2fLeCoq-et-al-2021-Intro-Book-PolAgAL.pdf/RK=2/RS=m6P2OL2aFBo35_GMQRgyQtzqegM-',
-    },
+    // {
+    //   referencia:
+    //     'Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018, September). Políticas públicas que promueven la agroecología y producción orgánica en América Latina. In in III <i>Conferência Internacional de Agricultura e Alimentação em uma Sociedade Urbanizada</i>.',
+    //   link:
+    //     'https:_ylt=AwrEa5jSM8NkUx4HGMmrcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1690543187/RO=10/RU=https%3a%2f%2fagritrop.cirad.fr%2f599094%2f1%2fLeCoq-et-al-2021-Intro-Book-PolAgAL.pdf/RK=2/RS=m6P2OL2aFBo35_GMQRgyQtzqegM-',
+    // },
 
     {
       referencia:
