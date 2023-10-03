@@ -15,14 +15,14 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 El suelo, es uno de los recursos vitales que pueden sufrir mayor afectación o riesgos, debido a que esta capa, que es la más superficial y visible del planeta, cuenta con gran capacidad agroecológica y desempeña funciones vitales para la existencia, las especies y el desarrollo ser humano; posee gran variedad, diversas formas y puede ser de catalogado como rural o urbano dependiendo de la ubicación en la que se encuentre, siendo un factor importante porque permite establecer su funcionalidad y las características que puede ofrecer para su utilización. Además, su estudio integra diversas disciplinas entre las que se encuentran la edafología, geología, ecología, agronomía, arquitectura, urbanismo, geografía, ordenamiento territorial, etc.
+              p.mb-0 El suelo es uno de los recursos vitales que pueden sufrir mayor afectación o riesgos, debido a que esta capa, que es la más superficial y visible del planeta, cuenta con gran capacidad agroecológica y desempeña funciones vitales para la existencia, las especies y el desarrollo ser humano; posee gran variedad, diversas formas y puede ser de catalogado como rural o urbano dependiendo de la ubicación en la que se encuentre, siendo un factor importante porque permite establecer su funcionalidad y las características que puede ofrecer para su utilización. Además, su estudio integra diversas disciplinas entre las que se encuentran la edafología, geología, ecología, agronomía, arquitectura, urbanismo, geografía, ordenamiento territorial, etc.
 
       .row.mb-5
         .col-lg-6.mb-4.mb-md-0(data-aos="fade-right")
           p Es un elemento esencial para la vida, ya que desarrolla funciones vitales como la producción de alimentos, moderación del ciclo hidrológico, soporte para las plantas, regulación del hábitat, fertilidad, procesamiento de la materia orgánica, retención y oferta de nutrientes; es decir, aporta no solo a la naturaleza, sino que también a la sociedad, las actividades humanas, el territorio y las culturas de las generaciones presentes y futuras. 
 
           .cajon.color-secundario.p-4.mb-4
-            p.mb-0 Su proceso de formación se da con el transcurrir de los siglos, partir de la desintegración de rocas superficiales por la acción del agua, los cambios de temperatura y el viento, como también por la interacción del clima, el material orgánico, el relieve y los organismos vivos, lo que involucra diferentes variables biológicas, químicas y físicas. 
+            p.mb-0 Su proceso de formación se da con el transcurrir de los siglos, apartir de la desintegración de rocas superficiales por la acción del agua, los cambios de temperatura y el viento, como también por la interacción del clima, el material orgánico, el relieve y los organismos vivos, lo que involucra diferentes variables biológicas, químicas y físicas. 
         .col-lg-6(data-aos="fade-left")
           .titulo-sexto.color-secundario
             p.mb-0 <b>Figura 3</b><br> <em>Capas del Suelo.</em>
@@ -44,21 +44,21 @@
 
     h3.my-5(data-aos="fade-up")  Perfil del suelo
 
-    p.mb-5(data-aos="fade-up") Todos los componentes del suelo están acomodados en zonas conocidas como horizontes, cada uno cuenta con características y propiedades propias que lo distinguen, diferenciado los tipos de horizontes y, con ello, conociendo el perfil edáfico, denominado también perfil del suelo. Estas capas identificadas en sentido vertical cuentan con un sistema propio de designación, empleando letras mayúsculas para identificar los 6 tipos de horizontes.
+    p.mb-5(data-aos="fade-up") Todos los componentes del suelo están acomodados en zonas conocidas como horizontes, cada uno cuenta con características y propiedades propias que lo distinguen, diferenciando los tipos de horizontes y con ello, conociendo el perfil edáfico, denominado también perfil del suelo. Estas capas identificadas en sentido vertical cuentan con un sistema propio de designación, empleando letras mayúsculas para identificar los 6 tipos de horizontes.
 
     .cajon_1.p-4
       .row.align-items-center
         .col-lg-6.mb-4.mb-md-0(data-aos="fade-right")
           img.img-a(src='@/assets/curso/temas/tema_2/img_4.svg', alt='')
         .col-lg-6(data-aos="fade-left")
-          p El horizonte O es la capa más superficial y está conformada por materia orgánica proveniente de hojas, hongos, desechos animales y otros materiales total o parcialmente descompuestos. El horizonte A brinda elementos de nutrición a las plantas, se compone de una mezcla de partículas minerales con humus, raíces y organismos vivos. El horizonte E es una capa caracterizada por presentar un color claro, está compuesta por minerales y en ella ocurre el proceso de lixiviación. Por otra parte, el horizonte B, junto al C, tienen la mayor proporción de materia inorgánica y, por último, el horizonte R, en algunas ocasiones, no se considera suelo al estar formado, mayoritariamente, por roca que hace que sea difícil su penetración.
+          p El horizonte O es la capa más superficial y está conformada por materia orgánica proveniente de hojas, hongos, desechos animales y otros materiales total o parcialmente descompuestos. El horizonte A brinda elementos de nutrición a las plantas, se compone de una mezcla de partículas minerales con humus, raíces y organismos vivos. El horizonte E es una capa caracterizada por presentar un color claro, está compuesta por minerales y en ella ocurre el proceso de lixiviación. Por otra parte, el horizonte B junto al C, tienen la mayor proporción de materia inorgánica y, por último, el horizonte R en algunas ocasiones no se considera suelo al estar formado mayoritariamente por roca, lo que hace que sea difícil su penetración.
 
     h3.my-5(data-aos="fade-up")  Problemáticas del suelo
 
     .cajon_2.p-5.mb-5
       .row.align-items-center
         .col-lg-8.mb-4.mb-md-0(data-aos="fade-right")
-          p El suelo sufre problemáticas y afectaciones de diversas índoles u orígenes, y, pueden ser originadas por actividades tanto naturales como humanas. Las causas naturales están vinculadas con fenómenos como inundaciones, sequías, incendios, avalanchas, deslizamientos, temblores, entre otros, que generan deterioro, contaminación y pérdida de productividad. Sumado a estas, el desarrollo de las actividades de producción del ser humano como la agricultura, la ganadería, la extracción de minerales y de construcción, aportan, en mayor medida, a causar o a incrementar las problemáticas, porque al llevar a cabo prácticas agrícolas intensivas e inapropiados, procesos de deforestación, pastoreo intensivo, sobreexplotación o uso de agroquímicos, se causan daños irreparables al suelo.
+          p El suelo sufre problemáticas y afectaciones de diversas índoles u orígenes, y pueden ser originadas por actividades tanto naturales como humanas. Las causas naturales están vinculadas con fenómenos como inundaciones, sequías, incendios, avalanchas, deslizamientos, temblores, entre otros; que generan deterioro, contaminación y pérdida de productividad. Sumado a estas, el desarrollo de las actividades de producción del ser humano como la agricultura, la ganadería, la extracción de minerales y de construcción, aportan en mayor medida a causar o a incrementar las problemáticas, porque al llevar a cabo prácticas agrícolas intensivas e inapropiadas, procesos de deforestación, pastoreo intensivo, sobreexplotación o uso de agroquímicos, se causan daños irreparables al suelo.
         .col-lg-4(data-aos="fade-left")
           img.img-a(src='@/assets/curso/temas/tema_2/img_5.png', alt='')
 
@@ -67,7 +67,7 @@
         .col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
           img.img-a(src='@/assets/curso/temas/tema_2/img_8.png', alt='')
         .col-lg-8(data-aos="fade-left")
-          p Las sustancias contaminantes del suelo se acumulan y alcanzan niveles o concentraciones tóxicas para los organismos que habitan el suelo y dificultan, o imposibilitan, la realización de balances naturales, funciones regeneradoras y soporte de vida para los ecosistemas que normalmente lleva a cabo en él, inclusive, se produce una degradación física, química y biológica que se puede presentar en diversos grados que llegan a causar una pérdida total o parcial de su productividad.
+          p Las sustancias contaminantes del suelo se acumulan y alcanzan niveles o concentraciones tóxicas para los organismos que habitan el suelo y dificultan o imposibilitan, la realización de balances naturales, funciones regeneradoras y soporte de vida para los ecosistemas que normalmente lleva a cabo en él, inclusive, se produce una degradación física, química y biológica que se puede presentar en diversos grados que llegan a causar una pérdida total o parcial de su productividad.
 
       .row.justify-content-center.mb-3
         .col-lg-8

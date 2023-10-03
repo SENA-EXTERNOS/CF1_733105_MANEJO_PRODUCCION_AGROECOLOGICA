@@ -45,7 +45,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 A lo largo del proceso de producción agrícola, se requiere realizar actividades que van desde la preparación del terreno y la siembra, hasta acciones de carácter preventivo, de manejo y control, para el desarrollo fisiológico, para el manejo de poblaciones asociadas o para el manejo de plagas y enfermedades. Para realizar estas actividades se deben tener en cuenta los procedimientos y buenas prácticas agrícolas, el empleo de métodos, herramientas y equipos adecuados, lograr y la implementación de un manejo agroecológico idóneo, estableciendo prácticas agrícolas sostenibles en diferentes ecosistemas.
 
-    p.mb-5(data-aos="zoom-out-right") Estas técnicas están enfocadas a lograr la conservación y protección del suelo, siendo un factor importante para la agricultura debido a que un suelo en óptimas condiciones garantizara un rendimiento ideal de los cultivos instalados en él. El efecto de la conservación de los suelos, a menudo, no genera resultados inmediatos, sin embargo, a largo plazo, se reflejan efectos como mantenimiento de la fertilidad, minimización de la contaminación y la erosión, entre otros.
+    p.mb-5(data-aos="zoom-out-right") Estas técnicas están enfocadas a lograr la conservación y protección del suelo, siendo un factor importante para la agricultura debido a que, un suelo en óptimas condiciones garantizará un rendimiento ideal de los cultivos instalados en él. El efecto de la conservación de los suelos, a menudo no genera resultados inmediatos, sin embargo, a largo plazo, se reflejan efectos como mantenimiento de la fertilidad, minimización de la contaminación y la erosión, entre otros.
 
     .row.justify-content-center.mb-3
       .col-lg-8

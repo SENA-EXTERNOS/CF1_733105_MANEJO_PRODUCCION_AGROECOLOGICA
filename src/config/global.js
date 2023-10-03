@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Conocimientos de los agroecosistemas y conservación de suelos',
     descripcionCurso:
-      'En este componente formativo brinda la información necesaria para comprender la agroecología, su evolución, sus enfoques y sus aportes a los objetivos de desarrollo sostenible mediante la transformación de los sistemas y los métodos de producción convencionales, a sistemas agroalimentarios sostenibles. Además, se abordará la importancia del suelo y de las diferentes prácticas de manejo cultural llevado a cabo en los cultivos.',
+      'Este componente formativo brinda la información necesaria para comprender la agroecología, su evolución, sus enfoques y sus aportes a los objetivos de desarrollo sostenible mediante la transformación de los sistemas y los métodos de producción convencionales, a sistemas agroalimentarios sostenibles. Además, se abordará la importancia del suelo y de las diferentes prácticas de manejo cultural llevado a cabo en los cultivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -141,7 +141,7 @@ export default {
     {
       termino: 'Adaptabilidad',
       significado:
-        'capacidad de ajustarse a un sistema de producción, lo que requiere enfrentarse a procesos de cambio de condiciones',
+        'capacidad de ajustarse a un sistema de producción, lo que requiere enfrentarse a procesos de cambio de condiciones.',
     },
     {
       termino: 'Agroquímicos',
@@ -171,12 +171,12 @@ export default {
     {
       termino: 'Sistema de producción',
       significado:
-        'conjunto particular de actividades (sistema de manejo) desarrolladas para producir una serie definida de productos o beneficios.',
+        'serie de actividades que se llevan a cabo durante la producción (desde la siembra hasta la cosecha) de los cultivos con el fin de proporcionar las condiciones y requerimientos necesarios para un adecuado crecimiento de las plantas. ',
     },
     {
       termino: 'Manejo cultural',
       significado:
-        'serie de actividades que se llevan a cabo durante la producción (desde la siembra hasta la cosecha) de los cultivos con el fin de proporcionar las condiciones y requerimientos necesarios para un adecuado crecimiento de las plantas.',
+        'conjunto particular de actividades (sistema de manejo) desarrolladas para producir una serie definida de productos o beneficios.',
     },
     {
       termino: 'Materia orgánica',

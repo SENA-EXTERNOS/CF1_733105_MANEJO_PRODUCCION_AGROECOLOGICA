@@ -11,7 +11,7 @@
 
     p Apreciado aprendiz, bienvenido a este componente formativo, donde podrá apropiarse de los conceptos y acciones claves del conocimiento de los agroecosistemas y la conservación de los suelos. 
 
-    p Realice un estudio responsable de todas las temáticas y potencie sus habilidades y saberes que le favorecerán en su experticia para la aplicación de prácticas de manejo ambiental, cultural, técnico y empresarial, del recurso “suelo”.
+    p Realice un estudio responsable de todas las temáticas y potencie sus habilidades y saberes que le favorecerán en su experticia para la aplicación de prácticas de manejo ambiental, cultural, técnico y empresarial del recurso “suelo”.
 
     p.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 

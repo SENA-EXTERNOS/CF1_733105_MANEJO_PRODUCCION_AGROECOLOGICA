@@ -30,14 +30,14 @@
           img.img-a(src='@/assets/curso/temas/tema_1/4.svg', alt='')
         .col-9  
           h5 Agricultura orgánica y sostenible
-          p.pe-5.me-5 Además, como lo indica Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018, September), difiere no solo de la agricultura tradicional, sino que también de otros modelos agrícolas alternativos como la agricultura orgánica y sostenible, en criterios como el uso de insumos (abonos, productos fitosanitarios, etc.), en la diversificación de la producción agrícola, en la siembra de variedades genéticamente modificadas.
+          p.pe-5.me-5 Además, como lo indica Le Coq, J., Patrouilleau, M. M., Sabourin, E., & Niederle, P. A. (2018), la agroecología difiere no solo de la agricultura tradicional, sino que también de otros modelos agrícolas alternativos como la agricultura orgánica y sostenible, en criterios como el uso de insumos (abonos, productos fitosanitarios, etc.), en la diversificación de la producción agrícola, en la siembra de variedades genéticamente modificadas.
           hr          
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left") 
         .col-auto
           img.img-a(src='@/assets/curso/temas/tema_1/5.svg', alt='')
         .col-9  
           h5 Recursos naturales 
-          p.pe-5.me-5 Lo que conlleva a obtener beneficios importantes en los ecosistemas, pues la intervención antrópica altera la disponibilidad de recursos, las características del suelo, el clima, la estructura social, las dinámicas económicas y la historia del territorio, al aumentar la degradación ambiental, originando consecuencias negativas y, con la agroecología se busca promover el manejo de los agroecosistemas bajo estrategias como el uso responsable de los recursos naturales y la conservación de la biodiversidad.
+          p.pe-5.me-5 La intervención antrópica altera la disponibilidad de recursos, las características del suelo, el clima, la estructura social, las dinámicas económicas y la historia del territorio, al aumentar la degradación ambiental, originando consecuencias negativas y, con la agroecología se busca promover el manejo de los agroecosistemas bajo estrategias como el uso responsable de los recursos naturales y la conservación de la biodiversidad.
           hr            
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right") 
         .col-auto
@@ -92,8 +92,8 @@
           figure
             img.img-a(src='@/assets/curso/temas/tema_1/img_14.png', alt='')
         .col-md-8.text-left
-          h3 Enfoque multidisciplinaria y transdisciplinario
-          p También es <b><i>multidisciplinaria y transdisciplinaria</i></b> porque abarca y aplica el conocimiento de diversas áreas y disciplinas como la ecología, agronomía, botánica, geografía, antropología, sociología, entre otras. 
+          h3 Enfoque multidisciplinario y transdisciplinario
+          p También es <b><i>multidisciplinario y transdisciplinario</i></b> porque abarca y aplica el conocimiento de diversas áreas y disciplinas como la ecología, agronomía, botánica, geografía, antropología, sociología, entre otras. 
 
       .row.align-items-center(data-aos="fade-left")
         
@@ -165,7 +165,7 @@
         .col-lg-8(data-aos="fade-right")
           .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
-              p.mb-0 De forma específica, los cinco ejes temáticos de la agroecología contribuyen a diversos objetivos de desarrollo sostenible, al impulsar acciones encaminadas a la conservación y preservación de la biodiversidad, los recursos naturales (el agua, el suelo,), la aplicación de metodologías ecológicas y la mitigación de impactos ambientales, el  fomento de proceso cortos de comercialización, el aumento de mercados campesinos y de productos orgánicos lo que favorece la  seguridad alimentaria, la inclusión del enfoque diferencial, de género, la importancia de la mujer, la generación de valor agregado de los sistemas productivos, recuperación de prácticas y saberes ancestrales, entre otros.
+              p.mb-0 De forma específica, los cinco ejes temáticos de la agroecología contribuyen a diversos objetivos de desarrollo sostenible, al impulsar acciones encaminadas a la conservación y preservación de la biodiversidad, los recursos naturales (el agua, el suelo), la aplicación de metodologías ecológicas y la mitigación de impactos ambientales, el  fomento de proceso cortos de comercialización, el aumento de mercados campesinos y de productos orgánicos lo que favorece la  seguridad alimentaria, la inclusión del enfoque diferencial, de género, la importancia de la mujer, la generación de valor agregado de los sistemas productivos, recuperación de prácticas y saberes ancestrales, entre otros.
       .titulo-sexto.color-secundario(data-aos="fade-up")
         p.mb-0 <b>Figura 2</b><br> <em>Ejes de la agroecología y relación con los ODS.</em>
       img.img-a.mb-2(src='@/assets/curso/temas/tema_1/img_23.svg', alt='')(data-aos="fade-up")
@@ -186,35 +186,35 @@
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="5%" y="2%" numero="+")
         .h5.mb-2 Diversidad: 
-        p En la transformación agroecológica que permita asegurar la nutrición y seguridad alimentaria, como también proteger, cuidar y optimizar los recursos naturales.
+        p en la transformación agroecológica se permite asegurar la nutrición y seguridad alimentaria, como también proteger, cuidar y optimizar los recursos naturales.
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="24%" y="2%" numero="+")
         .h5.mb-2 Creación conjunta e intercambio de conocimientos:
-        p Lo que permite mejores las innovaciones agrícolas, debido a que la creación se lleva a cabo a través de procesos participativos.
+        p lo que permite mejores las innovaciones agrícolas, debido a que la creación se lleva a cabo a través de procesos participativos.
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="44%" y="2%" numero="+")
         .h5.mb-2 Sinergias: 
-        p Estas permiten potencializar las funciones vitales de los sistemas alimentarios y los servicios ecosistémicos.
+        p estas permiten potencializar las funciones vitales de los sistemas alimentarios y los servicios ecosistémicos.
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="65%" y="2%" numero="+")
         .h5.mb-2 Eficiencia: 
-        p Por medio de las prácticas agroecológicas se logra producir más empleando menos recursos.
+        p por medio de las prácticas agroecológicas se logra producir más empleando menos recursos.
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="84%" y="2%" numero="+")
         .h5.mb-2 Reciclaje: 
-        p Permite alcanzar una producción con menores costos económicos y ambientales.  
+        p permite alcanzar una producción con menores costos económicos y ambientales.  
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="14%" y="49%" numero="+")
         .h5.mb-2 Resiliencia:
-        p A nivel de las personas, comunidades y ecosistemas, permite alcanzar sostenibilidad en los sistemas alimentarios y agrícolas.
+        p a nivel de las personas, comunidades y ecosistemas, permite alcanzar sostenibilidad en los sistemas alimentarios y agrícolas.
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="33%" y="49%" numero="+")
         .h5.mb-2 Valores humanos y sociales:
-        p Son fundamentales para obtener y mejorar los medios de vida, la equidad y el bienestar social y, a su vez alcanzar sistemas alimentarios y agrícolas sostenibles.
+        p son fundamentales para obtener y mejorar los medios de vida, la equidad y el bienestar social y, a su vez alcanzar sistemas alimentarios y agrícolas sostenibles.
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="54%" y="49%" numero="+")
         .h5.mb-2 Cultura y tradiciones alimentarias:
-        p Se aporta a la seguridad alimentaria y la nutrición al mismo tiempo que se mantiene la salud de los ecosistemas.
+        p se aporta a la seguridad alimentaria y la nutrición al mismo tiempo que se mantiene la salud de los ecosistemas.
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="75%" y="49%" numero="+")
         .h5.mb-2 Gobernanza responsable: 
@@ -222,12 +222,12 @@
 
       .tarjeta.color-acento-botones.p-3.text-center.tarjeta_1(x="94%" y="49%" numero="+")
         .h5.mb-2 Economía circular y solidaria: 
-        p Permite obtener soluciones innovadoras para lograr vivir dentro de los límites de nuestro planeta y, al mismo tiempo, afianzar las bases sociales para el desarrollo inclusivo y sostenible. 
+        p permite obtener soluciones innovadoras para lograr vivir dentro de los límites de nuestro planeta y, al mismo tiempo, afianzar las bases sociales para el desarrollo inclusivo y sostenible. 
 
     h5.mb-5 Dimensiones y niveles del cambio y transición agroecológica
 
-    p Es de resaltar, que existen, como lo establece Gliessman, S. (2018), cuatro dimensiones y cinco niveles que son claves para la transición, los cuales están fundamentados en la visión multidimensional y holística de la agroecológica y, buscan lograr cambios en diferentes ámbitos que permitan aumentar la eficiencia y construir el sistema alimentario de forma más participativa, justa y amigable con el medio ambiente. Teniendo en cuenta que a la hora de evaluar la evolución no siempre es necesario avanzar de forma secuencial, debido a que estos niveles dependen del contexto del agroecosistema y del sistema agroalimentario. 
-    p.mb-5 Analice con atención, las dimensiones y niveles del cambio y transición agroecológica, expuestos a continuación: 
+    p Es de resaltar que existen como lo establece Gliessman, S. (2018), cuatro dimensiones y cinco niveles que son claves para la transición, los cuales están fundamentados en la visión multidimensional y holística de la agroecología y buscan lograr cambios en diferentes ámbitos que permitan aumentar la eficiencia y construir el sistema alimentario de forma más participativa, justa y amigable con el medio ambiente. Teniendo en cuenta que a la hora de evaluar la evolución no siempre es necesario avanzar de forma secuencial, debido a que estos niveles dependen del contexto del agroecosistema y del sistema agroalimentario. 
+    p.mb-5 Analice con atención las dimensiones y niveles del cambio y transición agroecológica expuestos a continuación: 
 
     .fondo-4.p-4
       img.img-a.mb-2(src='@/assets/curso/temas/tema_1/img_26.svg', alt='')(data-aos="fade-up")
@@ -259,8 +259,8 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_28.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-4
-              h2 Cartografía de usos del suelo.
-              p A la hora de realizar el proceso de cartografía del suelo, existen diversas metodologías y procedimientos, siendo la zonificación agroecológica un instrumento de gran importancia, porque como lo establece Alarcón Trujillo, V. F. (2021), está permite establecer el potencial del terreno o zona geográfica, lo que a su vez permite un óptimo aprovechamiento del suelo. La forma de realizar la zonificación incluye actividades que pueden ser clasificadas en 3 grupos, que son registro del uso de las tierras, la compilación de los registros e inventarios de tierras y la evaluación de aptitudes. <br><br>Nota. Gis&Beers. (2019). 
+              h2 Cartografía de usos del suelo
+              p A la hora de realizar el proceso de cartografía del suelo, existen diversas metodologías y procedimientos, siendo la zonificación agroecológica un instrumento de gran importancia porque como lo establece Alarcón Trujillo, V. F. (2021), esta permite establecer el potencial del terreno o zona geográfica, lo que a su vez permite un óptimo aprovechamiento del suelo. La forma de realizar la zonificación incluye actividades que pueden ser clasificadas en 3 grupos, que son: registro del uso de las tierras, la compilación de los registros e inventarios de tierras y la evaluación de aptitudes.
 
     h3.my-5(data-aos="fade-up")  Análisis de riesgos
 
@@ -271,12 +271,12 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_30.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La agroecología, por medio de la caracterización del territorio, logra identificar todas las problemáticas que se presentan, con el fin de minimizarlas, porque de acuerdo a la vulnerabilidad de los ecosistemas y el conflicto de los procesos geofísicos con la población, se  convierten en riesgos, los cuales pueden ser de diversos orígenes, entre los que se destacan afectaciones del clima y de las condiciones meteorológicas, desastres naturales, daños físicos, locativos, afectaciones económicas y financieras derivadas de fluctuaciones en los precios y procesos de mercadeo. 
+            p.mb-0 La agroecología por medio de la caracterización del territorio, logra identificar todas las problemáticas que se presentan, con el fin de minimizarlas porque de acuerdo a la vulnerabilidad de los ecosistemas y el conflicto de los procesos geofísicos con la población, se convierten en riesgos, los cuales pueden ser de diversos orígenes, entre los que se destacan: afectaciones del clima y de las condiciones meteorológicas, desastres naturales, daños físicos, locativos, afectaciones económicas y financieras derivadas de fluctuaciones en los precios y procesos de mercadeo.
     .row.mb-5.mt-5
       .col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         img.img-a.mb-2(src='@/assets/curso/temas/tema_1/img_31.png', alt='')(data-aos="fade-up")
       .col-lg-8(data-aos="fade-left")
-        p.mb-3 Existen medidas para reducir y controlar los riesgos, por medio de la minimización de la pérdida de activos físicos y capital ambiental, como también por medio de la implementación de instrumentos de planificación, como la zonificación ambiental, el ordenamiento territorial y los adecuados usos del suelo. Además, el proceso de análisis de los riesgos lo conforman tres fases que va desde el análisis de los factores de riesgo, para luego realizar una evaluación y por último diseñar medidas de mitigación. 
+        p.mb-3 Existen medidas para reducir y controlar los riesgos por medio de la minimización de la pérdida de activos físicos y capital ambiental, como también por medio de la implementación de instrumentos de planificación, como la zonificación ambiental, el ordenamiento territorial y los adecuados usos del suelo. Además, el proceso de análisis de los riesgos lo conforman tres fases que van desde el análisis de los factores de riesgo, para luego realizar una evaluación y por último, diseñar medidas de mitigación. 
 
         .cajon.color-primario.p-4.mb-4.align-items-center
           p.mb-0 Por tanto, el proceso de gestión de riesgos empieza con la identificación de las amenazas y vulnerabilidades, las cuales ponen en riesgo la funcionalidad y estabilidad de las unidades funcionales del territorio; debido a que son una serie de eventos de origen natural vinculados con fenómenos atmosféricos, hidrológicos, geológicos, volcánicos, sísmicos, como por ejemplo huracanes, tornados, inundaciones, tsunamis, avalanchas, hundimientos, erupciones, sequías, lluvias o vientos intensos, temblores, terremotos, incendios, etc...
