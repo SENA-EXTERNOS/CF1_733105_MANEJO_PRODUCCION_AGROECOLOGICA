@@ -70,10 +70,10 @@
           p Las sustancias contaminantes del suelo se acumulan y alcanzan niveles o concentraciones tóxicas para los organismos que habitan el suelo y dificultan o imposibilitan, la realización de balances naturales, funciones regeneradoras y soporte de vida para los ecosistemas que normalmente lleva a cabo en él, inclusive, se produce una degradación física, química y biológica que se puede presentar en diversos grados que llegan a causar una pérdida total o parcial de su productividad.
 
       .row.justify-content-center.mb-3
-        .col-lg-8
+        .col-lg-10
           .titulo-sexto.color-secundario(data-aos="fade-up")
             p.mb-0 <b>Figura 4</b><br> <em>Degradación del suelo.</em>
-      img.img-a(data-aos="fade-left")(src='@/assets/curso/temas/tema_2/img_7.svg', alt='')
+          img.img-a(data-aos="fade-left")(src='@/assets/curso/temas/tema_2/img_7.svg', alt='')
 
 
 
