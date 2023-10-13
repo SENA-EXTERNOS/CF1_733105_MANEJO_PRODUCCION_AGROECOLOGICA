@@ -171,12 +171,12 @@ export default {
     {
       termino: 'Sistema de producción',
       significado:
-        'serie de actividades que se llevan a cabo durante la producción (desde la siembra hasta la cosecha) de los cultivos con el fin de proporcionar las condiciones y requerimientos necesarios para un adecuado crecimiento de las plantas. ',
+        'conjunto particular de actividades (sistema de manejo) desarrolladas para producir una serie definida de productos o beneficios.',
     },
     {
       termino: 'Manejo cultural',
       significado:
-        'conjunto particular de actividades (sistema de manejo) desarrolladas para producir una serie definida de productos o beneficios.',
+        'serie de actividades que se llevan a cabo durante la producción (desde la siembra hasta la cosecha) de los cultivos con el fin de proporcionar las condiciones y requerimientos necesarios para un adecuado crecimiento de las plantas.',
     },
     {
       termino: 'Materia orgánica',
