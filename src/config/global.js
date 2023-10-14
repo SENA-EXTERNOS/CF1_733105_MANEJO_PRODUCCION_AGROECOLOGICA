@@ -198,7 +198,7 @@ export default {
 
     {
       referencia:
-        'García, D. (2017). <i>Metodologías participativas, agroecología y sostenibilidad rural</i>. Centro nacional de educación ambiental.',
+        'Roman, L. (2016). <i>Metodologías participativas, agroecología y sostenibilidad rural. Centro nacional de educación ambiental.</i>',
       link: 'https://dspace.unia.es/handle/10334/3700',
     },
 
